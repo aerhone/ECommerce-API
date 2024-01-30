@@ -1,5 +1,5 @@
 # E-Commerce API
-## Created by
+
 As part of our bootcamp, together with 1 co-bootcamper, we created a backend for an e-commerce app using RESTful API
 
 ## Please note:
