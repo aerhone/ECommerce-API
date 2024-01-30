@@ -1,6 +1,6 @@
 # E-Commerce API
 
-As part of our bootcamp, together with 1 co-bootcamper, we created a backend for an e-commerce app using RESTful API
+As part of our bootcamp, together with 1 co-bootcamper, we created a backend for an E-Commerce App using ExpressJS and RESTful API
 
 ## Please note:
 - set up your own .env file - follow the .envsample for your reference
